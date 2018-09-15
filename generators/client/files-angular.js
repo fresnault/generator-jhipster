@@ -399,6 +399,8 @@ const files = {
                 // alert service code
                 'shared/alert/alert.component.ts',
                 'shared/alert/alert-error.component.ts',
+                // icons
+                'shared/icons/jhi-sort-icon.component.ts',
                 // dates
                 'shared/util/datepicker-adapter.ts'
             ]

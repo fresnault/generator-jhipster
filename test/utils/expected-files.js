@@ -300,6 +300,7 @@ const expectedFiles = {
         `${CLIENT_MAIN_SRC_DIR}app/polyfills.ts`,
         `${CLIENT_MAIN_SRC_DIR}app/shared/alert/alert-error.component.ts`,
         `${CLIENT_MAIN_SRC_DIR}app/shared/alert/alert.component.ts`,
+        `${CLIENT_MAIN_SRC_DIR}app/shared/icons/jhi-sort-icon.component.ts`,
         `${CLIENT_MAIN_SRC_DIR}app/core/auth/account.service.ts`,
         `${CLIENT_MAIN_SRC_DIR}app/core/auth/csrf.service.ts`,
         `${CLIENT_MAIN_SRC_DIR}app/shared/auth/has-any-authority.directive.ts`,
